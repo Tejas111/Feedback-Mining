@@ -1,7 +1,7 @@
-#Sentimental Analysis of Reviews
+# Sentimental Analysis of Reviews
 =========
 
-#Requirements
+# Requirements
 ------------
 * [NLTK][3] and its dependencies
 
